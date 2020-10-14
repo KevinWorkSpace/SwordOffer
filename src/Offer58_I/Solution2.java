@@ -1,4 +1,4 @@
-package Offer58;
+package Offer58_I;
 
 public class Solution2 {
 
